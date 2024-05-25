@@ -1,0 +1,209 @@
+---
+title: "Lecture Note 1"
+filters: 
+  - webr
+execute: 
+  echo: false
+---
+
+::: callout-note
+Learning Objective:
+:::
+
+```{r}
+#| include: false
+
+library(tidyverse)
+library(knitr)
+```
+
+## Introduction to Data Analysis
+
+## Introduction to R Language
+
+### What is R?
+
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
+
+### Why R?
+
+-   R is open-source and free
+-   R is a powerful tool for data analysis
+-   R has a large and active community
+-   R has a large number of packages for data analysis
+-   R is a programming language and can be used for automating data analysis tasks
+-   R is a great tool for reproducible research
+
+### RStudio
+
+Rsudio is an integrated development environment (IDE) for R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.
+
+### Basic of R
+
+#### R as a Calculator
+
+```{webr-r}
+# Addition
+2 + 3
+
+# Subtraction
+5 - 3
+
+# Multiplication
+2 * 3
+
+# Division
+6 / 3
+
+# Exponentiation
+2 ^ 3
+```
+
+#### R Objects
+
+In R, everything is an object. These objects serve as containers for various types of data. Whether you’re dealing with a single number, a character string (like a word), or a complex structure like the output of a plot or a statistical analysis summary, it’s all represented as an object.
+
+**Creating Objects:**
+
+To create an object, you simply give it a name. For instance
+
+```{webr-r}
+x <- 5
+```
+
+In this example, an object is created called `x` and it is assigned the value `5`. The `<-` is the assignment operator. It assigns the value on the right to the object on the left. You can also use `=` to assign values to objects, but it's considered bad practice.
+
+**Viewing Objects:**
+
+To view the value of an object, you simply type the name of the object and press enter. For instance:
+
+```{webr-r}
+x
+```
+
+R keeps track of all objects in the current workspace during the session. You can see all the objects in the current workspace by typing `ls()` in the console.
+
+**Opearations with Objects:**
+
+You can perform operations with objects. For instance:
+
+```{webr-r}
+y <- 3
+z <- x + y
+
+z
+```
+
+**Objects names:**
+
+Object names can contain letters, numbers, periods, and underscores. However, they can only starts with letters or underscore and nothing else. They are case-sensitive, so `x` and `X` are different objects. They cannot start with a number or a period. If you would like to insist to have numbers or period as the first character, you can use backticks to define the object name. It is called nonsyntactic names. For instance, you can define the following:
+
+```{webr-r}
+`1x` <- 10
+`1x`
+```
+
+**Exercises:**
+
+```{webr-r}
+
+```
+
+1.  Create an object called `a` and assign the value `10` to it.
+2.  Create an object called `b` and assign the value `20` to it.\
+3.  Create an object called `star` and assign the value `a + b` to it.
+4.  View the value of `star`.
+5.  Which of the following is not the syntactic name for an object?
+    -   `x`
+    -   `X`
+    -   `1x`
+    -   `x1`
+    -   `x.y`
+    -   `x_y`
+
+#### Data Types
+
+R has several data types. The most common data types are:
+
+1.  Numeric (double)
+
+-   represents eal numbers (e.g., 3.14, 0.0001, 1000.0).
+-   can be positive or negative.
+-   can be in scientific notation (e.g., 1.23e-5).
+-   used for continuous data like measurements, weights, heights, etc.
+
+2.  Character
+
+-   represents text data (e.g., "hello", "world", "R is fun").
+-   must be enclosed in quotes.
+-   used for categorical data (e.g., "High School", "Primary School", "University").
+
+3.  Logical (boolean)
+
+-   represents binary data (e.g., TRUE or FALSE).
+-   used for logical operations.
+
+4.  Integer
+
+-   represents whole numbers (e.g., 1, 2, 3, 1000).
+-   can be positive or negative.
+-   used for counting data like number of students, number of cars, etc.
+-   sometimes you will see it ends with `L` (e.g., 1L, 2L, 3L, 1000L). This is to indicate that the number is an integer.
+
+5.  Factors
+
+-   represents categorical data (e.g., "High School", "Primary School", "University").
+-   used for categorical data.
+
+6.  Complex
+
+-   represents complex numbers (e.g., 1 + 2i, 3 + 4i, 5 + 6i).
+-   used for complex data like electrical engineering, physics, etc.
+
+However, we seldom deal with complex data types. We will focus on the first four data types.
+
+**Exercises:**
+
+```{webr-r}
+
+```
+
+1.  What is the data type of `3.14`?
+2.  What is the data type of `"hello"`?
+3.  What is the data type of `TRUE`?
+4.  What is the data type of `1L`?
+5.  What is the data type of `factor("High School")`?
+6.  What is the data type of `1 + 2i`?
+7.  What is the data type of `"1"`?
+
+Note: You can check your answers using `typeof()` function.
+
+#### Functions
+
+A function is a block of code that performs a specific task. R has a large number of in-built functions and also allows users to define their own functions. We will learn more about how to create functions in the coming weeks. But so far, we will use some of the in-built functions. Anything that starts with `(` and end with `)` is a function.
+
+**Exercises:**
+
+Define which one is a function below:
+
+1.  `mean()`
+2.  `median`
+3.  `sd()`
+4.  `var()`
+5.  `sum[]`
+
+#### Vectors
+
+#### Data Frames
+
+#### Packages
+
+R packages are collections of functions and data sets developed by the community. They increase the power of R by improving existing base R functionalities, or by adding new ones.
+
+**Exercises**:
+
+1.  Install `tidyverse` package. Explain what do you observe from the console.
+2.  Load the `tidyverse` package. Explain what do you observe from the console.
+3.  Install `palmerpenguins` package. Explain what do you observe from the console.
+4.  Load the `palmerpenguins` package. Explain what do you observe from the console.
+5.  Load the `lmer` package. Explain what do you observe from the console.

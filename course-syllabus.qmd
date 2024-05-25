@@ -1,0 +1,105 @@
+---
+title: "Syllabus/Outline"
+---
+
+## Unit Synopsis
+
+This unit equips students with statistical techniques and the use of modern business software, including R, Excel, Power BI, for business applications. Students will learn to process and analyse extensive datasets using methods such as regression, time series analysis and classification. Key topics include modeling, regression analysis, and time series analysis in the business context.
+
+## Unit Objectives
+
+On successful completion of this unit, you should be able to:
+
+1.  Gain proficiency in business reporting tools and data analysis tool.
+2.  Learn to perform complex statistical analyses, including hypothesis testing and confidence intervals.
+3.  Use various predictive modeling technique to enhance forecasting and decision-making in business context.
+4.  Acquire skills to analyze and interpret real-time data for better business strategic planning and decision.
+
+## Unit Outline
+
+1.  Introduction to data analysis
+2.  Descriptive statistics
+3.  Data visualization
+4.  Data wrangling
+5.  Probability: An introduction to modelling uncertainty
+6.  Descriptive data mining
+7.  Statistical inference
+8.  Linear regression
+9.  Time series analysis and forecasting
+10. Regression
+11. Classification
+
+## Textbooks
+
+The textbook for this course is just a supplement to the lectures and labs. The main resources for this course are the lecture notes, lab materials, and the course website. However, the following textbooks are recommended for additional reading:
+
+-   [Business Analytics](https://au.cengage.com/c/mindtap-for-camm-cochran-fry-ohlmann-s-business-analytics-2-terms-instant-access-5e-camm-cochran-fry-ohlmann/9780357902240/) by Camm, Cochran, Fry, Ohlmann, Anderson & Sweeney, 2024, 5th Edition.
+
+-   [Advanced Analytics with Power BI and R](https://radacad.com/online-book-analytics-with-power-bi-and-r) by Dr. Leila Etaati, 2020.
+
+## Assessment
+
+### Within semester assessment: 50%
+
+### Examination: 50%
+
+**Hurdle description for Examination:**
+
+This unit contains a hurdle requirement that you must achieve to be able to pass the unit. The consequence of not achieving a hurdle requirement is a fail grade (NH) and a maximum mark of 45 for the unit.
+
+| Assessments  | Weight | Due Date    | Learnkng Oucomes |
+|--------------|--------|-------------|------------------|
+| Quizzes      | 10%    | Weekly      | Weeks 2-12       |
+| Assignment 1 | 20%    | Weeks 6     | Weeks 1-5        |
+| Assignment 2 | 20%    | Week 11     | Weeks 1-10       |
+| Final exam   | 50%    | Exam period | Weeks 1-12       |
+
+-   *The lowest quiz grade will be dropped at the end of the semester.*
+-   It is your responsibility to check your assignment grading and to report any discrepancies within one week of the grade being posted.
+
+## Course info
+
+|            | Day | Time              | Location               |
+|------------|-----|-------------------|------------------------|
+| Lectures   | Tue | 2.00 pm - 3.50 pm | K312, Caulfield Campus |
+| Tutorial 1 | Mon | 1:45 pm - 3:00 pm | xx\.                   |
+
+### Communication
+
+All lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website at [xx](coming).
+
+I will regularly send course announcements via Ed discussion board, make sure to check one or the other of these regularly. It is your responsibility to stay informed about the course progress and any changes to the schedule.
+
+### Where to get help
+
+-   If you have a question during lecture or tutorial, feel free to ask your teaching team or post your question in the discussion board. There are likely other students with the same question, and it is helpful to have the answer available to everyone.
+-   The teaching team is here to help you be successful in the course. You are encouraged to attend the designated consultation hours to ask questions about the course content and assignments. Those consultation hours are available every day except weekend!
+-   Outside of class and office hours, any general questions about course content or assignments should be posted on the Ed discussion board [here](link%20here!!!). Please check whether your question has already been answered before posting. Please help each others by answering other questions, you will notice that you learn a lot by posting/responding to others. Do not expect the teaching team to answer questions that are posted during the weekend in the discussion board.
+-   Emails should be reserved for personal questions that are not appropriate to be discuss in the forum. **Please include "ETF2121/5912" in the email subject line.** Response time may be slower for emails with 24 hours being the maximum response time except weekend.
+
+## Lectures and tutorials
+
+Our goal in both lectures and labs is to encourage maximum interaction. As your instructor, I will introduce you to new tools and techniques, but it’s up to you to apply them effectively. Coding is best learned through practice, so much of our coursework will involve hands-on coding tasks. Each session will include various activities and assignments designed to enhance your skills.
+
+Attendance and active participation in both lectures and tutorials are expected. Attending lectures and tutorials in person will provide the best learning experience. Some lectures will feature application exercises and periodic activities to foster a supportive learning community. These activities will be brief and enjoyable, aimed at strengthening connections among classmates throughout the semester.
+
+### Exams
+
+**Final exam**. The exam will be held during the exam period, and it will be a closed-book exam with 5 pieces of A4 paper (10 pages) of handwritten/typed notes allowed. It is a supervised exam, and you will not be allowed to access the internet.
+
+### Late work submission policy
+
+Assignment deadlines are set to facilitate your progression through the course content and to enable timely feedback from the teaching team. I understand that unforeseen circumstances may occasionally arise, hindering your ability to meet a deadline. In such cases, you can request an extension through the Monash extension unit for extenuating circumstances. Please note that **I do not grant individual approvals for late submissions**, and requests should **solely** be made through the Monash extension unit.
+
+-   There will be a 10% deduction for each 24-hour period the assignment is late.
+-   If you submit an assessment task more than seven days after the due date, you’ll receive a mark of zero and you won’t get any feedback.
+-   Strictly no late submission without approval.
+-   I will not reply to any email related to request on late submission.
+
+## Important dates
+
+-   **xxx:** Classes begin (Tuesday)
+
+-   xxx: Assignment 1 submission deadline
+
+-   xxx: Assignment 2 submission deadline

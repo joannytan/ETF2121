@@ -1,0 +1,12 @@
+---
+title: "ETF 2121/5912: Data Analysis in Business"
+---
+
+Welcome to Data Analysis in Business. This unit provides an overview of fundamental tools of data and statistical analysis used in the Business and Economics disciplines. The methods covered are widely used in industry and academia, providing the necessary foundation for more advanced approaches as you advance your training and career.
+
+\
+This course delves deeper into basic statistical concepts, with a focus on their application in finance, accounting, and other sectors. It introduces cutting-edge software and programming languages such as R, Power-BI, SQL and Excel for robust data analysis and predictive modelling. Students will engage with modern data sources and advanced sampling techniques, learn to perform hypothesis testing, and apply modelling techniques such as regression and time series analysis in business context~~s~~. The course places a strong emphasis on practical applications, aiming to equip students with the skills to interpret and leverage statistical data for solving business problems and making informed decisions in industry.
+
+![](images/course_background.jpeg){fig-alt="A series of six, generic data visualizations: a scatterplot, a density plot, a contour plot, a line plot, a box plot, and another scatterplot." width="700"}
+
+[Introductory Video](/slides/intro.html)

@@ -1,0 +1,27 @@
+---
+title: "Teaching team"
+---
+
+## Instructor
+
+![](images/team/joan.jpeg){style="float:right;padding: 0 0 0 10px;" style="border-radius: 50%;" fig-alt="Photo of Dr. Joan" width="150"}
+
+[**Dr.**](#0) **Joan Tan** (she/her) works as Senior Teaching Fellow at the Department of Business Statistics and Econometrics at Monash University. Joan's work focuses on bringing industry experience into teaching with student centered innovative learning. Joan also works in NAB as an Associate Director.
+
+## Teaching Associates
+
++--------------------------------------------------------------------------+---------------------------+--------------------+
+| Contact                                                                  | Tutorial Slots (Location) | Consultation Hours |
++==========================================================================+===========================+====================+
+| **Mr. Chin Quek**                                                        |                           |                    |
+|                                                                          |                           |                    |
+| ![Photo of Chin quek](images/team/chin.jpg){width="150" height="100"}    |                           |                    |
++--------------------------------------------------------------------------+---------------------------+--------------------+
+| **Mr. Elvis Yang**                                                       |                           |                    |
++--------------------------------------------------------------------------+---------------------------+--------------------+
+| **Mr. Krisanat**                                                         |                           |                    |
+|                                                                          |                           |                    |
+| ![photo of krisanat](images/team/krisanat.jpg){width="150" height="100"} |                           |                    |
++--------------------------------------------------------------------------+---------------------------+--------------------+
+|                                                                          |                           |                    |
++--------------------------------------------------------------------------+---------------------------+--------------------+

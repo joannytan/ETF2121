@@ -1,0 +1,73 @@
+---
+title: "Welcome"
+subtitle: "ETF2121/5912 - S2 2024"
+footer:  "[Course Website](todo: coming soon)"
+logo: "images/logo.png"
+format: 
+  revealjs: 
+    theme: slides.scss
+    transition: fade
+    slide-number: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+```{r include = FALSE}
+library(countdown)
+library(wordcloud2)
+words <- data.frame(word=c("statistical inference", "data wrangling", "data visualization", "presciptive", "descriptive", "predictive", "linear regression", "time-series", "R programming", "SQL", "Power BI"),
+                       freq= c(10, 8, 7, 5, 4, 3, 2, 4, 10, 12, 9))
+```
+
+## ETF2121/5912 Data Analysis in Business  
+
+![](images/intro.png){width="900" fig-align="center"}
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="50" width="100" height="100"}
+
+
+## What is this course about?
+
+-   Problem-based learning
+-   Business analytics
+-   Preparing you with tools for data analysis regardless of your major
+-   Data wrangling, visualization, and analysis
+-   This unit is designed for the [non-technical]{style="color:red;"} student with no coding background!
+
+
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="0" width="100" height="100"}
+
+## Example: Case Problem
+
+Alumni donations are an important source of revenue for colleges and universities. If administrators could determine the factors that could lead to increases in the percentage of alumni who make a donation, they might be able to implement policies that could lead to increased revenues. Research shows that students who are more satisfied with their contact with teachers are more likely to graduate. As a result, one might suspect that smaller class sizes and lower student/faculty ratios might lead to a higher percentage of satisfied graduates, which in turn might lead to increases in the percentage of alumni who make a donation.
+
+**Problem to solve**: Predict the alumni giving rate, given the graduation rate. Discuss your findings.
+
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="0" width="100" height="100"}
+
+## What you will learn?
+
+-   How to use [R]{style="color:red;"} programming language for data wrangling, visualization, and analysis;
+-   How to use [SQL]{style="color:red;"} language to query databases;
+-   How to use [POWER BI]{style="color:red;"} as data dashboard to showcase your analysis;
+-   How to apply [analytics skill]{style="color:red;"} to solve the business problem.
+
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="0" width="100" height="100"}
+
+## At the end of this course, you are able to
+
+![source: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Healthcare-Expenditure/td-p/3437485](images/powerbiscreen.png){fig-width="100%"}
+
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="0" width="100" height="100"}
+
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="0" width="100" height="100"}
+
+## See you 🎡
+
+```{r fig.align='center', fig.width=11}
+set.seed(12345)
+wordcloud2(words, size = 0.4, backgroundColor = "black", color = "random-light")
+```
+
+![](images/lec-1/joan.jpeg){.top-right .shake .absolute fig-alt="Headshot of Dr. Joan Tan" style="border-radius: 50%;" top="0" width="100" height="100"}
+

@@ -1,0 +1,31 @@
+---
+title: "Week 1"
+subtitle: "Welcome to ETF2121/5912"
+editor: visual
+---
+
+## Pre-class activities (own-time)
+
+📖 Read the [syllabus](/course-syllabus.html)
+
+## Lecture (real-time)
+
+🖥️ [Lab 0](tba)
+
+🖥️ [Lecture 1 - Introduction to Data Analysis](/slides/lec-1.html)
+
+📋 [Note](/notes/w1.html)
+
+## Tutorial (real-time)
+
+📋 [Tutorial 1 - Software Installation](tba)
+
+## Supplementary (own-time)
+
+⌨️ [Supp 1 - Familiarise yourself with R](tba)
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::
